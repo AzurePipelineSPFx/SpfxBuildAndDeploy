@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "two-n-client-side-solution",
+    "id": "7eea9fed-5df8-4535-8104-3886fff6df58",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/two-n.sppkg"
+  }
+}
