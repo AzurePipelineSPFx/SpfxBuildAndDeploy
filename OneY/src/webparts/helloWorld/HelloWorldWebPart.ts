@@ -21,7 +21,7 @@ export default class HelloWorldWebPart extends BaseClientSideWebPart<IHelloWorld
         <div class="${ styles.container }">
           <div class="${ styles.row }">
             <div class="${ styles.column }">
-              <span class="${ styles.title }">Welcome to SharePoint!Lets Test CI/CD Integration</span>
+              <span class="${ styles.title }">Welcome to SharePoint!Demo to HD</span>
               <p class="${ styles.subTitle }">Customize SharePoint experiences using Web Parts.</p>
               <p class="${ styles.description }">${escape(this.properties.description)}</p>
               <a href="https://aka.ms/spfx" class="${ styles.button }">
